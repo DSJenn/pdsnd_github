@@ -9,6 +9,10 @@ Exploring Bikeshare in US
 ### Description
 Making use of Python to explore data related to bike share systems for three major cities in the US: Chicago, New York City, and Washington.
 
+### Softwares used
+Python 3
+Code editor
+
 ### Files used
 bikeshare.py
 chicago.csv
